@@ -1,21 +1,3 @@
-# Eleanor
-host, video.twimg.com, 🇸🇬新加坡
-host-suffix, riotgames.com,
-host-suffix, wr.pvp.net,
-host-suffix, riotcdn.net,
-ip-cidr, 8.8.8.8/32,
-host-suffix,loggly.com,
-host-suffix,segment.com,
-host-suffix,intercom.io,
-host-suffix,intercomcdn.com,
-host-suffix,amplitude.com,
-host-suffix,notion.so,
-host-suffix,amazonaws.com,
-host-suffix, tv.apple.com,
-host-suffix, www.google.com,
-host-suffix, gameloft.com,
-host-suffix, fast.com,
-host-suffix, speedtest.com,
 #索尼
 HOST-SUFFIX,playstation.net,Sony
 HOST-SUFFIX,playstationnetwork.com,Sony
