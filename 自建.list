@@ -1,0 +1,18 @@
+# Eleanor
+host, video.twimg.com, 🇸🇬新加坡
+host-suffix, riotgames.com, proxy
+host-suffix, wr.pvp.net, proxy
+host-suffix, riotcdn.net, proxy
+ip-cidr, 8.8.8.8/32, proxy
+host-suffix,loggly.com, proxy
+host-suffix,segment.com, proxy
+host-suffix,intercom.io, proxy
+host-suffix,intercomcdn.com, proxy
+host-suffix,amplitude.com, proxy
+host-suffix,notion.so, proxy
+host-suffix,amazonaws.com, proxy
+host-suffix, tv.apple.com, direct
+host-suffix, www.google.com, proxy
+host-suffix, gameloft.com, proxy
+host-suffix, fast.com, proxy
+host-suffix, speedtest.com, proxy
