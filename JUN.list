@@ -64,5 +64,5 @@ HOST-SUFFIX,steamstat.us,Steam
 HOST-SUFFIX,steamstatic.com,Steam
 HOST-SUFFIX,steamusercontent.com,Steam
 #clubhouse
-www.clubhouseapi.com
-clubhouse.pubnub.com
+host-suffix www.clubhouseapi.com proxy
+host-suffix clubhouse.pubnub.com proxy
