@@ -63,3 +63,6 @@ HOST-SUFFIX,steampowered.com,Steam
 HOST-SUFFIX,steamstat.us,Steam
 HOST-SUFFIX,steamstatic.com,Steam
 HOST-SUFFIX,steamusercontent.com,Steam
+#clubhouse
+www.clubhouseapi.com
+clubhouse.pubnub.com
